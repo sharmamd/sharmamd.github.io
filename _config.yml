@@ -21,7 +21,7 @@ repository               : "sharmamd.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_picture.png"
+  avatar           : "profile_pic.jpg"
   name             : "Madhusudan Sharma"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. at Geoscience Barcelona (Geo3BCN), Barcelona"
