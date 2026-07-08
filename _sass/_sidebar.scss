@@ -79,19 +79,19 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
- width: 305px;
+ width: 150px;
   // set width only, for non-square avatars
- height: 305px;
+ height: 150px;
 
   @include breakpoint($large) {
    display: block;
-    width: 305px;
-   height: 305px;
+    width: auto;
+   height: auto;
  }
 
  img {
-  width: 305px;
-  height: 305px;
+  width: 155px;
+  height: 155px;
   border-radius: 50%;
 
     @include breakpoint($large) {
