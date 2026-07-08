@@ -22,7 +22,7 @@ repository               : "sharmamd.github.io"
 author:
   # Biographic information
   avatar           : "profile_picture.jpg"
-  name             : "Madhusudan Sharma"
+ # name             : "Madhusudan Sharma"
   pronouns         : # example: "He/him"  
   bio              : "Ph.D. at Geoscience Barcelona (Geo3BCN), Barcelona"
   location         : "Les Corts, 08028 Barcelona, Spain"
