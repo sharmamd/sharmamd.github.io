@@ -92,7 +92,6 @@
  img {
   width: 205px;
   height: 205px;
-  object-fit: cover;
   border-radius: 0;
 
     @include breakpoint($large) {
