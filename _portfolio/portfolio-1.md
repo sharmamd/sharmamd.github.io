@@ -6,7 +6,6 @@ excerpt: |
   <video autoplay loop muted playsinline width="700">
     <source src="image/BE.mp4" type="video/mp4">
   </video>
----
 collection: portfolio
 ---
 
