@@ -7,7 +7,7 @@ header:
 ---
 
 <video autoplay loop muted playsinline width="100%">
-  <source src="/images/BE_EGU.mp4" type="video/mp4">
+  <source src="/images/BE_EGU(1).mp4" type="video/mp4">
 </video>
 <video autoplay loop muted playsinline width="100%">
   <source src="/images/BO_EGU(1).mp4" type="video/mp4">
