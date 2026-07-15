@@ -9,3 +9,9 @@ header:
 <video autoplay loop muted playsinline width="100%">
   <source src="/images/BE.mp4" type="video/mp4">
 </video>
+<video autoplay loop muted playsinline width="100%">
+  <source src="/images/BO_Backarc_Openning.mp4" type="video/mp4">
+</video>
+<video autoplay loop muted playsinline width="100%">
+  <source src="/images/PR.mp4" type="video/mp4">
+</video>
