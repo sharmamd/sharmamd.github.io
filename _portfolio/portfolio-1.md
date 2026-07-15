@@ -7,11 +7,11 @@ header:
 ---
 
 <video autoplay loop muted playsinline width="100%">
-  <source src="/images/BE.mp4" type="video/mp4">
+  <source src="/images/BE_EGU.mp4" type="video/mp4">
 </video>
 <video autoplay loop muted playsinline width="100%">
-  <source src="/images/BO_Backarc_Openning.mp4" type="video/mp4">
+  <source src="/images/BO_EGU(1).mp4" type="video/mp4">
 </video>
 <video autoplay loop muted playsinline width="100%">
-  <source src="/images/PR.mp4" type="video/mp4">
+  <source src="/images/PR(2).mp4" type="video/mp4">
 </video>
