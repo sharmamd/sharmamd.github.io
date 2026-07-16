@@ -5,16 +5,16 @@ author_profile: true
 ---
 <style>
 .gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
-  gap: 20px;
+  column-count: 3;
+  column-gap: 20px;
 }
 
 .gallery img {
   width: 100%;
-  height: 350px;
-  object-fit: cover;
+  height: auto;
+  margin-bottom: 20px;
   border-radius: 12px;
+  break-inside: avoid;
 }
 </style>
 
