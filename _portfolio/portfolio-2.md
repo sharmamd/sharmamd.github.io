@@ -4,3 +4,12 @@ excerpt: "This study examines almost 30 deep-focus earthquakes, magnitudes start
 collection: portfolio
 date: 2025-08-27
 ---
+You can interact with the live model directly below:
+
+<iframe 
+  src="https://eq-symae.fly.dev" 
+  width="100%" 
+  height="700px" 
+  style="border: none; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+  allowfullscreen>
+</iframe>
