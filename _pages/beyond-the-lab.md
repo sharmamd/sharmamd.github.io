@@ -1,12 +1,12 @@
 ---
 permalink: /beyond-the-lab/
 title: "Exploring mountains, cities, and the stories in between."
-author_profile: false
+author_profile: true
 ---
 <style>
 .gallery {
-  column-count: 3;
-  column-gap: 20px;
+  column-count: 2;
+  column-gap: 10px;
 }
 
 .gallery img {
