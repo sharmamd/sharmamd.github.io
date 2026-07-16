@@ -16,7 +16,7 @@ author_profile: true
 }
 </style>
 <div class="gallery">
-  <img src="/assets/images/travel/barcelona.jpg" alt="Barcelona">
-  <img src="/assets/images/travel/nepal.jpg" alt="Nepal">
-  <img src="/assets/images/travel/iceland.jpg" alt="Iceland">
+  <img src="/assets/images/travel/1.jpg" >
+  <img src="/assets/images/travel/2.jpg" >
+  <img src="/assets/images/travel/3.jpg" >
 </div>
