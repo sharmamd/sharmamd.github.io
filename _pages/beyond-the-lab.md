@@ -17,6 +17,6 @@ author_profile: true
 </style>
 <div class="gallery">
 {% for i in (1..17) %}
-  <img src="/assets/images/{{ i }}.jpg" alt="">
+  <img src="/assets/images/{{ i }}.jpg">
 {% endfor %}
 </div>
