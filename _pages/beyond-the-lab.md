@@ -5,16 +5,19 @@ author_profile: true
 ---
 <style>
 .gallery {
-  display: flex;
-  flex-wrap: wrap: wrap;
-  gap: 15px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 20px;
 }
 
 .gallery img {
-  width: 400px;
-  border-radius: 10px;
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 8px;
 }
 </style>
+
 <div class="gallery">
 {% for i in (1..17) %}
   <img src="/images/{{ i }}.jpg">
