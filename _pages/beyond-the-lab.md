@@ -6,13 +6,13 @@ author_profile: true
 <style>
 .gallery {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: wrap: wrap;
   gap: 15px;
 }
 
 .gallery img {
-  width: 300px;
-  border-radius: 8px;
+  width: 400px;
+  border-radius: 10px;
 }
 </style>
 <div class="gallery">
