@@ -1,7 +1,7 @@
 ---
 permalink: /beyond-the-lab/
 title: "Exploring mountains, cities, and the stories in between."
-author_profile: true
+author_profile: false
 ---
 <style>
 .gallery {
